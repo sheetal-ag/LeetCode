@@ -5,26 +5,26 @@ class Solution
     public:
    int countPrimes(int n)
    {
-    if(n==0) return 0;
+       bool* isprime = new bool[n];
+      
+       for(int i=2;i<n;i++)
+       isprime[i] = true;
 
-    vector<bool>prime(n,true);//all are prime marked already
-    prime[0]=prime[1]=false;
-    
-    int ans=0;
+       for(int i=2;i*i<n;i++){
+           if(!isprime[i]) continue;
 
-    for(int i=2;i<n;i++){
-        if(prime[i]){
-            ans++;
+           for(int j=i*i;j<n;j+=i){
+               isprime[j] = false;
+           }
+       }
 
-            int j=2*i;
-            while(j<n){
-                prime[j]=false;
-                j+=i;
-            }
-        }
-    }
-    return ans; 
-  }  
+       int count = 0;
 
+       for(int i = 2;i<n;i++)
+         if(isprime[i])count++;
 
+         return count;
+
+  
+     }
 };
