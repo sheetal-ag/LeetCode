@@ -29,3 +29,7 @@ public:
     }
      
 };
+
+
+
+//take care of range of for loops
