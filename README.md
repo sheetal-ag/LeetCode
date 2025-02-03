@@ -32,4 +32,8 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/sheetal-ag/LeetCode/tree/master/0937-online-stock-span) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/sheetal-ag/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
