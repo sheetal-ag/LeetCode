@@ -7,6 +7,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/sheetal-ag/LeetCode/tree/master/0217-contains-duplicate) |
 | [1319-unique-number-of-occurrences](https://github.com/sheetal-ag/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1396-count-servers-that-communicate](https://github.com/sheetal-ag/LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,4 +44,24 @@
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sheetal-ag/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/sheetal-ag/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/sheetal-ag/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Depth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/sheetal-ag/LeetCode/tree/master/1396-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/sheetal-ag/LeetCode/tree/master/1396-count-servers-that-communicate) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/sheetal-ag/LeetCode/tree/master/1396-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/sheetal-ag/LeetCode/tree/master/1396-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/sheetal-ag/LeetCode/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
