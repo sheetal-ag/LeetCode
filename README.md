@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/sheetal-ag/LeetCode/tree/master/0937-online-stock-span) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sheetal-ag/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
@@ -64,4 +65,8 @@
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/sheetal-ag/LeetCode/tree/master/1396-count-servers-that-communicate) |
+## String
+|  |
+| ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sheetal-ag/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
